@@ -1,0 +1,20 @@
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\bin\Debug\Refractor.exe.config
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\bin\Debug\Refractor.exe
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\bin\Debug\Refractor.pdb
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\obj\Debug\Refractor.csprojResolveAssemblyReference.cache
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\obj\Debug\Refractor.Form1.resources
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\obj\Debug\Refractor.Properties.Resources.resources
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\obj\Debug\Refractor.csproj.GenerateResource.Cache
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\obj\Debug\Refractor.exe
+C:\Users\Kamal.EPSD-012\Documents\Visual Studio 2015\Projects\Refractor\Refractor\obj\Debug\Refractor.pdb
+D:\Sandboxer\Refractor\Refractor\bin\Debug\Refractor.exe.config
+D:\Sandboxer\Refractor\Refractor\obj\Debug\Refractor.exe
+D:\Sandboxer\Refractor\Refractor\obj\Debug\Refractor.pdb
+D:\Sandboxer\Refractor\Refractor\bin\Debug\Refractor.exe
+D:\Sandboxer\Refractor\Refractor\bin\Debug\Refractor.pdb
+D:\Sandboxer\Refractor\Refractor\obj\Debug\Refractor.csprojResolveAssemblyReference.cache
+D:\Sandboxer\Refractor\Refractor\obj\Debug\Refractor.Properties.Resources.resources
+D:\Sandboxer\Refractor\Refractor\obj\Debug\Refractor.csproj.GenerateResource.Cache
+D:\Sandboxer\Refractor\Refractor\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Sandboxer\Refractor\Refractor\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Sandboxer\Refractor\Refractor\obj\Debug\Refractor.Refractor.resources
